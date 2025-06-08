@@ -1,0 +1,14 @@
+{
+    "estrategias_selecionadas": [
+        "alternativa",
+        "maior",
+        "menor"
+    ],
+    "limite_perdas_consecutivas": 5,
+    "limite_ganhos_totais": 1,
+    "acao_perdas_consecutivas": "Parar e Continuar na Pr\u00f3xima Hora",
+    "modo_espectador": false,
+    "valor_inicial": 3.6,
+    "rodadas_aguardar": 10,
+    "bot_status": "ATIVADO"
+}
